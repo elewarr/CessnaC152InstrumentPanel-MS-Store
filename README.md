@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+## Privacy Policy
 
-You can use the [editor on GitHub](https://github.com/elewarr/CessnaC152InstrumentPanel-MS-Store/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+### Cessna C152 Instrument Panel
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Cessna C152 Instrument Panel was created by Krystian Lewandowski.
 
-### Markdown
+### Collected data
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Cessna C152 Instrument Panel application settings are stored as part of application data using standard API provided by the platform.
 
-```markdown
-Syntax highlighted code block
+Cessna C152 Instrument Panel does not collect any personal information or any other data.
 
-# Header 1
-## Header 2
-### Header 3
+### External data
 
-- Bulleted
-- List
+Cessna C152 Instrument Panel presentation layer relies on public data provided by Microsoft Flight Simulatror 2020 (via SimConnect Proxy).
+No personal information are provided to Microsoft Flifght Simulator 2020 or SimConnect Proxy.
 
-1. Numbered
-2. List
+### 3rd party SDKs
 
-**Bold** and _Italic_ and `Code` text
+Cessna C152 Instrument Panel relies on Electron.js.
 
-[Link](url) and ![Image](src)
-```
+### Advertisement
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Cessna C152 Instrument Panel does not use any ad framework nor presents any ads.
 
-### Jekyll Themes
+### Analytics
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/elewarr/CessnaC152InstrumentPanel-MS-Store/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Cessna C152 Instrument Panel does not use any frameworks for analytical purposes.
 
-### Support or Contact
+### Website
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Cessna C152 Instrument Panel website is using GitHub pages and relies completely and exclusively on GitHub's [Privacy Policy](https://github.com/site/privacy).  
+
+### App Store and payment process
+
+Cessna C152 Instrument Panel for Microsoft Windows is available exclusively on Microsoft Store.
+  
+---
+###### 2021, Krystian Lewandowski
